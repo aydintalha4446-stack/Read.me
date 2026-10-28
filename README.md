@@ -100,6 +100,6 @@ Soy un desarrollador de software e investigador de ciberseguridad de 14 años en
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aydintalha4446-stack&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
